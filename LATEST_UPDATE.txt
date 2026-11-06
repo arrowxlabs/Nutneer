@@ -1,0 +1,8 @@
+NEERNUT — Centered Header & Wholesale edition
+Header identity is centered geometrically in the viewport on Home, About and Product. The title is smaller, closer to the logo, and its descending N flourish and lower swash have been removed from the SVG.
+Product page redesigned with larger 16px body text, more generous heading scale, large full-width grade choices, larger quantity controls, rounded editorial imagery and clearer wholesale grouping. Mobile order bar and selection controls are larger.
+The only pack sizes are 25 kg, 50 kg and 100 kg. Quantity multiplies the pack weight in the WhatsApp summary. Existing grade preferences are retained. Prices remain on request until the owner supplies approved rates.
+The large bowl-on-wall image with a pink lotus has been replaced by a new transparent photographic harvest tray with real Euryale ferox leaves and a purple makhana flower. There is no wall or lotus in the replacement.
+Explore our makhana and Choose your makhana both link directly to /product.
+Validation: build, TypeScript and 15 tests passed. Desktop product layout and 390px mobile selectors checked; mobile header center matches header center; WhatsApp order payloads and both homepage button destinations checked. Export asset checks passed for all three pages. No WhatsApp messages sent.
+No GitHub changes or deployment. Original static inquiry remains preview-only. Reviews await genuine customer feedback.
